@@ -1,0 +1,23 @@
+{
+  "name": "htmldiffer",
+  "version": "0.1.0",
+  "title": "HTML Differ",
+  "description": "Utility for comparing two HTML documents and presenting the delta",
+  "main": "index.js",
+  "bin": "./index.js",
+  "author": "Jonathan Persson <persson.jonathan@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonathanp/htmldiffer.git"
+  },
+  "dependencies": {
+    "dom-compare": "^0.2.1",
+    "htmltidy": "0.0.6",
+    "xmldom": "^0.1.19",
+    "xpath-to-css": "^1.0.2"
+  }
+}
