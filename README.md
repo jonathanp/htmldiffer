@@ -12,6 +12,16 @@ $ npm install -g htmldiffer
 ```
 
 
+## Usage
+```
+$ htmldiffer foo.html bar.html
+```
+
+
+## Demo
+![A screenshot of example use](screenshot.png?raw=true)
+
+
 ## License
 
 MIT © [Jonathan Persson](https://github.com/jonathanp)
