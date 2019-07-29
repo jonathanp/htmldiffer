@@ -1,18 +1,18 @@
 {
   "name": "htmldiffer",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "title": "HTML Differ",
   "description": "Utility for comparing two HTML documents and presenting the delta",
   "main": "index.js",
   "bin": "./index.js",
-  "author": "Jonathan Persson <persson.jonathan@gmail.com>",
+  "author": "Jonathan Svenheden <jonathan@svenheden.com>",
   "license": "MIT",
   "engines": {
     "node": ">=4.0.0"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jonathanp/htmldiffer.git"
+    "url": "https://github.com/svenheden/htmldiffer.git"
   },
   "dependencies": {
     "dom-compare": "^0.2.1",

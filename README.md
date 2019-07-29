@@ -24,7 +24,7 @@ $ htmldiffer foo.html bar.html
 
 ## License
 
-MIT © [Jonathan Persson](https://github.com/jonathanp)
+MIT © [Jonathan Svenheden](https://github.com/svenheden)
 
 [npm-url]: https://npmjs.org/package/htmldiffer
 [npm-image]: https://badge.fury.io/js/htmldiffer.svg
